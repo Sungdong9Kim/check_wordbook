@@ -1,0 +1,5 @@
+apple: 사과
+book: 책
+banana: 바나나
+card: 카드
+bread: 빵
